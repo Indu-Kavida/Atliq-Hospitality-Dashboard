@@ -1,2 +1,2 @@
 # Atliq-Hospitality-Dashboard
-In This Project I Performed Data Cleaning ,Data Modeling, and Created DashBoard 
+# AtliQ Grands - Hospitality Data Dashboard
